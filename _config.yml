@@ -7,7 +7,7 @@ title: 拾柒的博客
 subtitle: ''
 description: '分享自己的想法与思考'
 keywords:
-author: Bowen liu
+author: Bowen
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: solitude
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
